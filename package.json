@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ivana092.github.io/tic-tac-toe-game",
+  "homepage": "https://ivana092.github.io/tic-tac-toe-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",

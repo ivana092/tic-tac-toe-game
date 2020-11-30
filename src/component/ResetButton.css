@@ -1,0 +1,17 @@
+.reset-btn {
+    width: 10em;
+    padding: 0.65em;
+    background-color: lightcoral;
+    border-radius: 1em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    border: 1px solid gray;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    cursor: grabbing;
+    font-size: larger;
+  }
+  .reset-btn:hover {
+    transform: scale(1.05);
+  }
+  
